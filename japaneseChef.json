@@ -1,7 +1,7 @@
 {
   "chefs": [
     {
-      "chefId": 1,
+      "chefId": "chef001TakashiSaito",
       "picture": "https://example.com/chef1.jpg",
       "name": "Takashi Saito",
       "description": "Chef Saito is a master of traditional Japanese cuisine, specializing in sushi and sashimi. He has won numerous awards for his precise techniques and attention to detail.",
@@ -10,7 +10,7 @@
       "likes": 10000,
       "recipes": [
         {
-          "recipeId": 1,
+          "recipeId": "recipe0001",
           "name": "Maguro Nigiri",
           "ingredients": [
             "tuna",
@@ -23,7 +23,7 @@
           "rating": 4.8
         },
         {
-          "recipeId": 2,
+          "recipeId": "recipe0002",
           "name": "Uni Sashimi",
           "ingredients": [
             "sea urchin",
@@ -36,7 +36,7 @@
           "rating": 4.9
         },
         {
-          "recipeId": 3,
+          "recipeId": "recipe0003",
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "chefId": 2,
+      "chefId": "chef002YoshihiroMurata",
       "picture": "https://example.com/chef2.jpg",
       "name": "Yoshihiro Murata",
       "description": "Chef Murata is a third-generation owner of a Kyoto restaurant famous for its kaiseki cuisine. He is known for his innovative twists on traditional dishes.",
@@ -60,21 +60,21 @@
       "likes": 15000,
       "recipes": [
         {
-          "recipeId": 4,
+          "recipeId": "recipe0004",
           "name": "Saba Nitsuke",
           "ingredients": ["mackerel", "soy sauce", "sake", "mirin", "ginger"],
           "cooking_method": "1. Cut the mackerel into serving-size pieces. 2. Combine soy sauce, sake, mirin, and ginger in a pot. 3. Add the mackerel and simmer until cooked through.",
           "rating": 4.5
         },
         {
-          "recipeId": 5,
+          "recipeId": "recipe0005",
           "name": "Kakiage Tempura",
           "ingredients": ["shrimp", "squid", "onion", "carrot", "flour"],
           "cooking_method": "1. Cut the seafood and vegetables into small pieces. 2. Mix with flour and water to make a batter. 3. Deep-fry until golden brown.",
           "rating": 4.6
         },
         {
-          "recipeId": 6,
+          "recipeId": "recipe0006",
           "name": "Cherry Blossom Rice",
           "ingredients": ["rice", "sakura leaves", "sake", "sugar", "salt"],
           "cooking_method": "1. Rinse the rice and soak for 30 minutes. 2. Drain and add water to the rice cooker. 3. Add sakura leaves, sake, sugar, and salt to the rice cooker. 4. Cook until done.",
@@ -83,7 +83,7 @@
       ]
     },
     {
-      "chefId": 3,
+      "chefId": "chef003NobuMatsuhisa",
       "picture": "https://example.com/chef3.jpg",
       "name": "Nobu Matsuhisa",
       "description": "Chef Matsuhisa is a celebrity chef and restaurateur known for his fusion of Japanese and South American cuisine. He has restaurants around the world, including in New York, Tokyo, and Dubai.",
@@ -92,7 +92,7 @@
       "likes": 20000,
       "recipes": [
         {
-          "recipeId": 7,
+          "recipeId": "recipe0007",
           "name": "Black Cod Miso",
           "ingredients": [
             "black cod",
@@ -105,7 +105,7 @@
           "rating": 4.9
         },
         {
-          "recipeId": 8,
+          "recipeId": "recipe0008",
           "name": "Tiradito",
           "ingredients": [
             "yellowtail",
@@ -118,7 +118,7 @@
           "rating": 4.7
         },
         {
-          "recipeId": 9,
+          "recipeId": "recipe0009",
           "name": "Soba Noodles with Tempura",
           "ingredients": [
             "soba noodles",
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "chefId": 4,
+      "chefId": "chef004MasaharuMorimoto",
       "picture": "https://example.com/chef4.jpg",
       "name": "Masaharu Morimoto",
       "description": "Chef Morimoto is a Iron Chef and a master of both traditional Japanese cuisine and fusion cooking. He has restaurants in New York, Las Vegas, and other cities around the world.",
@@ -142,7 +142,7 @@
       "likes": 18000,
       "recipes": [
         {
-          "recipeId": 10,
+          "recipeId": "recipe00010",
           "name": "Toro Tartare",
           "ingredients": [
             "tuna belly",
@@ -155,7 +155,7 @@
           "rating": 4.8
         },
         {
-          "recipeId": 11,
+          "recipeId": "recipe00011",
           "name": "Katsu Curry",
           "ingredients": [
             "chicken",
@@ -168,7 +168,7 @@
           "rating": 4.7
         },
         {
-          "recipeId": 12,
+          "recipeId": "recipe00012",
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "chefId": 5,
+      "chefId": "chef005TakashiSaito",
       "picture": "https://example.com/chef5.jpg",
       "name": "Takashi Saito",
       "description": "Chef Saito is a master of sushi and has been recognized with three Michelin stars. He has a restaurant in Tokyo that is widely considered to be one of the best sushi restaurants in the world.",
@@ -192,21 +192,21 @@
       "likes": 15000,
       "recipes": [
         {
-          "recipeId": 13,
+          "recipeId": "recipe00013",
           "name": "Otoro Nigiri",
           "ingredients": ["otoro (fatty tuna)", "sushi rice", "wasabi"],
           "cooking_method": "1. Make sushi rice by mixing rice vinegar, sugar, and salt with cooked rice. 2. Cut otoro into small pieces. 3. Mold rice into oblong shapes. 4. Place otoro on top of the rice. 5. Add a small amount of wasabi.",
           "rating": 4.9
         },
         {
-          "recipeId": 14,
+          "recipeId": "recipe00014",
           "name": "Uni Sashimi",
           "ingredients": ["sea urchin", "shiso leaves", "soy sauce"],
           "cooking_method": "1. Slice sea urchin into thin pieces. 2. Arrange on a plate with shiso leaves. 3. Drizzle with soy sauce.",
           "rating": 4.7
         },
         {
-          "recipeId": 15,
+          "recipeId": "recipe00015",
           "name": "Anago Nigiri",
           "ingredients": [
             "anago (saltwater eel)",
@@ -219,7 +219,7 @@
       ]
     },
     {
-      "chefId": 6,
+      "chefId": "chef006YoshihiroMurata",
       "picture": "https://example.com/chef6.jpg",
       "name": "Yoshihiro Murata",
       "description": "Chef Murata is a third-generation owner of the renowned Kyoto Kikunoi restaurant. He is known for his traditional kaiseki cuisine and has been recognized with three Michelin stars.",
@@ -228,14 +228,14 @@
       "likes": 12000,
       "recipes": [
         {
-          "recipeId": 16,
+          "recipeId": "recipe00016",
           "name": "Saba Nitsuke",
           "ingredients": ["mackerel", "mirin", "soy sauce", "sake", "ginger"],
           "cooking_method": "1. Cut mackerel into fillets. 2. Simmer mirin, soy sauce, sake, and sliced ginger in a pot. 3. Add the mackerel to the pot and simmer until cooked through.",
           "rating": 4.8
         },
         {
-          "recipeId": 17,
+          "recipeId": "recipe00017",
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -248,7 +248,7 @@
           "rating": 4.5
         },
         {
-          "recipeId": 18,
+          "recipeId": "recipe00018",
           "name": "Goma Dofu",
           "ingredients": [
             "sesame seeds",

@@ -183,10 +183,10 @@
       ]
     },
     {
-      "chefId": "chef005TakashiSaito",
+      "chefId": "chef005TunaTartare",
       "picture": "https://example.com/chef5.jpg",
-      "name": "Takashi Saito",
-      "description": "Chef Saito is a master of sushi and has been recognized with three Michelin stars. He has a restaurant in Tokyo that is widely considered to be one of the best sushi restaurants in the world.",
+      "name": "Tuna Tartare",
+      "description": "Chef Tuna is a master of sushi and has been recognized with three Michelin stars. He has a restaurant in Tokyo that is widely considered to be one of the best sushi restaurants in the world.",
       "experience_years": 30,
       "num_recipes": 50,
       "likes": 15000,
@@ -219,10 +219,10 @@
       ]
     },
     {
-      "chefId": "chef006YoshihiroMurata",
+      "chefId": "chef006MatchaTiramisu",
       "picture": "https://example.com/chef6.jpg",
-      "name": "Yoshihiro Murata",
-      "description": "Chef Murata is a third-generation owner of the renowned Kyoto Kikunoi restaurant. He is known for his traditional kaiseki cuisine and has been recognized with three Michelin stars.",
+      "name": "Matcha Tiramisu",
+      "description": "Chef Matcha is a third-generation owner of the renowned Kyoto Kikunoi restaurant. He is known for his traditional kaiseki cuisine and has been recognized with three Michelin stars.",
       "experience_years": 45,
       "num_recipes": 60,
       "likes": 12000,

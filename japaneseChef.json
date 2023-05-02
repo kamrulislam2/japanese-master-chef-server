@@ -10,6 +10,7 @@
       "likes": 10000,
       "recipes": [
         {
+          "recipeId": 1,
           "name": "Maguro Nigiri",
           "ingredients": [
             "tuna",
@@ -22,6 +23,7 @@
           "rating": 4.8
         },
         {
+          "recipeId": 2,
           "name": "Uni Sashimi",
           "ingredients": [
             "sea urchin",
@@ -34,6 +36,7 @@
           "rating": 4.9
         },
         {
+          "recipeId": 3,
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -57,18 +60,21 @@
       "likes": 15000,
       "recipes": [
         {
+          "recipeId": 4,
           "name": "Saba Nitsuke",
           "ingredients": ["mackerel", "soy sauce", "sake", "mirin", "ginger"],
           "cooking_method": "1. Cut the mackerel into serving-size pieces. 2. Combine soy sauce, sake, mirin, and ginger in a pot. 3. Add the mackerel and simmer until cooked through.",
           "rating": 4.5
         },
         {
+          "recipeId": 5,
           "name": "Kakiage Tempura",
           "ingredients": ["shrimp", "squid", "onion", "carrot", "flour"],
           "cooking_method": "1. Cut the seafood and vegetables into small pieces. 2. Mix with flour and water to make a batter. 3. Deep-fry until golden brown.",
           "rating": 4.6
         },
         {
+          "recipeId": 6,
           "name": "Cherry Blossom Rice",
           "ingredients": ["rice", "sakura leaves", "sake", "sugar", "salt"],
           "cooking_method": "1. Rinse the rice and soak for 30 minutes. 2. Drain and add water to the rice cooker. 3. Add sakura leaves, sake, sugar, and salt to the rice cooker. 4. Cook until done.",
@@ -86,6 +92,7 @@
       "likes": 20000,
       "recipes": [
         {
+          "recipeId": 7,
           "name": "Black Cod Miso",
           "ingredients": [
             "black cod",
@@ -98,6 +105,7 @@
           "rating": 4.9
         },
         {
+          "recipeId": 8,
           "name": "Tiradito",
           "ingredients": [
             "yellowtail",
@@ -110,6 +118,7 @@
           "rating": 4.7
         },
         {
+          "recipeId": 9,
           "name": "Soba Noodles with Tempura",
           "ingredients": [
             "soba noodles",
@@ -133,6 +142,7 @@
       "likes": 18000,
       "recipes": [
         {
+          "recipeId": 10,
           "name": "Toro Tartare",
           "ingredients": [
             "tuna belly",
@@ -145,6 +155,7 @@
           "rating": 4.8
         },
         {
+          "recipeId": 11,
           "name": "Katsu Curry",
           "ingredients": [
             "chicken",
@@ -157,6 +168,7 @@
           "rating": 4.7
         },
         {
+          "recipeId": 12,
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -180,18 +192,21 @@
       "likes": 15000,
       "recipes": [
         {
+          "recipeId": 13,
           "name": "Otoro Nigiri",
           "ingredients": ["otoro (fatty tuna)", "sushi rice", "wasabi"],
           "cooking_method": "1. Make sushi rice by mixing rice vinegar, sugar, and salt with cooked rice. 2. Cut otoro into small pieces. 3. Mold rice into oblong shapes. 4. Place otoro on top of the rice. 5. Add a small amount of wasabi.",
           "rating": 4.9
         },
         {
+          "recipeId": 14,
           "name": "Uni Sashimi",
           "ingredients": ["sea urchin", "shiso leaves", "soy sauce"],
           "cooking_method": "1. Slice sea urchin into thin pieces. 2. Arrange on a plate with shiso leaves. 3. Drizzle with soy sauce.",
           "rating": 4.7
         },
         {
+          "recipeId": 15,
           "name": "Anago Nigiri",
           "ingredients": [
             "anago (saltwater eel)",
@@ -213,12 +228,14 @@
       "likes": 12000,
       "recipes": [
         {
+          "recipeId": 16,
           "name": "Saba Nitsuke",
           "ingredients": ["mackerel", "mirin", "soy sauce", "sake", "ginger"],
           "cooking_method": "1. Cut mackerel into fillets. 2. Simmer mirin, soy sauce, sake, and sliced ginger in a pot. 3. Add the mackerel to the pot and simmer until cooked through.",
           "rating": 4.8
         },
         {
+          "recipeId": 17,
           "name": "Chawanmushi",
           "ingredients": [
             "eggs",
@@ -231,6 +248,7 @@
           "rating": 4.5
         },
         {
+          "recipeId": 18,
           "name": "Goma Dofu",
           "ingredients": [
             "sesame seeds",

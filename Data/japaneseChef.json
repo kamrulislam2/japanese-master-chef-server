@@ -2,7 +2,7 @@
   "chefs": [
     {
       "chefId": "chef001TakashiSaito",
-      "picture": "https://example.com/chef1.jpg",
+      "picture": "https://ibb.co/51RfVrT",
       "name": "Takashi Saito",
       "description": "Chef Saito is a master of traditional Japanese cuisine, specializing in sushi and sashimi. He has won numerous awards for his precise techniques and attention to detail.",
       "experience_years": 25,
@@ -52,7 +52,7 @@
     },
     {
       "chefId": "chef002YoshihiroMurata",
-      "picture": "https://example.com/chef2.jpg",
+      "picture": "https://ibb.co/fDG0X6r",
       "name": "Yoshihiro Murata",
       "description": "Chef Murata is a third-generation owner of a Kyoto restaurant famous for its kaiseki cuisine. He is known for his innovative twists on traditional dishes.",
       "experience_years": 30,
@@ -84,7 +84,7 @@
     },
     {
       "chefId": "chef003NobuMatsuhisa",
-      "picture": "https://example.com/chef3.jpg",
+      "picture": "https://ibb.co/0BDBgtJ",
       "name": "Nobu Matsuhisa",
       "description": "Chef Matsuhisa is a celebrity chef and restaurateur known for his fusion of Japanese and South American cuisine. He has restaurants around the world, including in New York, Tokyo, and Dubai.",
       "experience_years": 40,
@@ -134,7 +134,7 @@
     },
     {
       "chefId": "chef004MasaharuMorimoto",
-      "picture": "https://example.com/chef4.jpg",
+      "picture": "https://ibb.co/LNTt8rw",
       "name": "Masaharu Morimoto",
       "description": "Chef Morimoto is a Iron Chef and a master of both traditional Japanese cuisine and fusion cooking. He has restaurants in New York, Las Vegas, and other cities around the world.",
       "experience_years": 35,
@@ -184,7 +184,7 @@
     },
     {
       "chefId": "chef005TunaTartare",
-      "picture": "https://example.com/chef5.jpg",
+      "picture": "https://ibb.co/CMdDVzQ",
       "name": "Tuna Tartare",
       "description": "Chef Tuna is a master of sushi and has been recognized with three Michelin stars. He has a restaurant in Tokyo that is widely considered to be one of the best sushi restaurants in the world.",
       "experience_years": 30,
@@ -220,7 +220,7 @@
     },
     {
       "chefId": "chef006MatchaTiramisu",
-      "picture": "https://example.com/chef6.jpg",
+      "picture": "https://ibb.co/kJ014sd",
       "name": "Matcha Tiramisu",
       "description": "Chef Matcha is a third-generation owner of the renowned Kyoto Kikunoi restaurant. He is known for his traditional kaiseki cuisine and has been recognized with three Michelin stars.",
       "experience_years": 45,

@@ -4,7 +4,7 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 const allChefData = require("./Data/japaneseChef.json");
-const allReview = require("./Data/japaneseChef.json");
+const allReview = require("./Data/reviews.json");
 
 app.use(cors());
 

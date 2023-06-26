@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Hiroshi Nakamura",
+    "designation": "Lead Developer",
+    "image": "https://i.ibb.co/0tgL4Jv/Hiroshi-Nakamura.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Emi Suzuki",
+    "designation": "Website Designer",
+    "image": "https://i.ibb.co/QbTBW20/Emi-Suzuki.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Takeshi Tanaka",
+    "designation": "Backend Developer",
+    "image": "https://i.ibb.co/cL0LyHD/Takeshi-Tanaka.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Yuka Nakamura",
+    "designation": "Frontend Developer",
+    "image": "https://i.ibb.co/TcPJ1sd/Yuka-Nakamura.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Kenji Sato",
+    "designation": "Database Administrator",
+    "image": "https://i.ibb.co/StxVKCV/Kenji-Sato.jpg"
+  },
+  {
+    "id": "6",
+    "name": "Aya Yamamoto",
+    "designation": "UI/UX Designer",
+    "image": "https://i.ibb.co/sCx0VYS/Aya-Yamamoto.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Taro Tanaka",
+    "designation": "Quality Assurance Engineer",
+    "image": "https://i.ibb.co/6gWs4Z0/Taro-Tanaka.jpg"
+  },
+  {
+    "id": "8",
+    "name": "Rina Kimura",
+    "designation": "Content Writer",
+    "image": "https://i.ibb.co/xFyHgWf/Rina-Kimura.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Satoshi Suzuki",
+    "designation": "Systems Administrator",
+    "image": "https://i.ibb.co/fNP0FRw/Satoshi-Suzuki.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Mio Ishikawa",
+    "designation": "Project Manager",
+    "image": "https://i.ibb.co/dj1M0bP/Mio-Ishikawa.jpg"
+  }
+]

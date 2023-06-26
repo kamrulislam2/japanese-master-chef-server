@@ -5,6 +5,7 @@ const port = process.env.PORT || 5000;
 
 const allChefData = require("./Data/japaneseChef.json");
 const allReview = require("./Data/reviews.json");
+const allTeamMember = require("./Data/ourTeam.json");
 
 app.use(cors());
 
@@ -18,6 +19,10 @@ app.get("/allChefData", (req, res) => {
 
 app.get("/reviews", (req, res) => {
   res.send(allReview);
+});
+
+app.get("/teams", (req, res) => {
+  res.send(allTeamMember);
 });
 
 app.get("/allChefData/:id", (req, res) => {
